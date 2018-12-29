@@ -1,7 +1,7 @@
-#myforkify
-##Demo
+# myforkify
+## Demo
 https://akozyreva.github.io/myforkify/
-##Description
+## Description
 This is site, which I created, while was learning on JS course
 https://www.udemy.com/the-complete-javascript-course/
 Features:
