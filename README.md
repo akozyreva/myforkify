@@ -4,6 +4,7 @@ https://akozyreva.github.io/myforkify/
 ## Description
 This is site, which I created, while was learning on JS course
 https://www.udemy.com/the-complete-javascript-course/
+https://github.com/jonasschmedtmann/complete-javascript-course
 Features:
 - Babel;
 - live-server for rendering site and simulating backend queries;
